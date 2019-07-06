@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Car\ here.\r\n\r\n\ @author\ Amritansh\r\n\ @version\ 0.0.1\r\n
+comment1.params=
+comment1.target=Car()
+comment2.params=c1\ m1
+comment2.target=Car(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=int\ journy()
+comment4.params=
+comment4.target=void\ describe()
+comment5.params=
+comment5.target=java.lang.String\ getModel()
+comment6.params=m1
+comment6.target=void\ setModel(java.lang.String)
+numComments=7
