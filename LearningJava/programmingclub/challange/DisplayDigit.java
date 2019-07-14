@@ -1,4 +1,4 @@
-package programmingclub;
+package programmingclub.challange;
 
 import java.util.*;
 /**
